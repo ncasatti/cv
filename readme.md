@@ -26,7 +26,7 @@ Encargado de aplicación android de preventa para la empresa Arcor.
 * Desarrollé y mantuve la aplicación, implementando nuevas funcionalidades para mejorar la experiencia del usuario y resolviendo incidencias para asegurar la estabilidad de la aplicación.
 * Desarrollé nuevas funcionalidades requeridas por el cliente.
 
-### Emser | Lider Técnico/Desarrollador | Abril 2021 - Diciembre 2022
+### Emser | Desarrollador Lider | Abril 2021 - Diciembre 2022
 
 Lideré un equipo de 3 personas (1 desarrollador, 1 tester y 1 líder funcional) en el desarrollo de la aplicación Android, implementando arquitecturas limpias y utilizando tecnologías como Room, Retrofit y Kotlin.
 
