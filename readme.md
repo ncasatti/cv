@@ -45,17 +45,18 @@ Actualmente, gestiono de forma autónoma el desarrollo y mantenimiento integral 
 
 ## Habilidades Técnicas
 
-| Categoría            | Subcategoría         | Habilidades                          |
-| -------------------- | -------------------- | ------------------------------------ |
-| Lenguajes            | Backend              | Python, Go, JavaScript, TypeScript   |
-|                      | Mobile               | Kotlin, Java                         |
-|                      | Otros                | C#                                   |
-| Frameworks/Librerías | Backend              | Django, .NET, Node.js, Bun           |
-|                      | Frontend             | NextJS (Básico)                      |
-| Bases de Datos       | Relacionales         | Microsoft SQL Server, MySQL, MariaDB |
-| DevOps/Cloud         | Cloud Providers      | AWS (Lambda, RDS, EC2, S3, etc.)     |
-|                      | Contenerización      | Docker                               |
-|                      | Control de Versiones | Git                                  |
+| Categoría            | Subcategoría         | Habilidades                                                           |
+| -------------------- | -------------------- | --------------------------------------------------------------------- |
+| Lenguajes            | Backend              | Python, Go, JavaScript, TypeScript                                    |
+|                      | Mobile               | Kotlin, Java                                                          |
+|                      | Otros                | C#                                                                    |
+| Frameworks/Librerías | Backend              | Django, .NET, Node.js, Bun                                            |
+|                      | Frontend             | NextJS (Básico)                                                       |
+| Bases de Datos       | Relacionales         | Microsoft SQL Server, MySQL, MariaDB                                  |
+| DevOps/Cloud         | Cloud Providers      | AWS (Lambda, RDS, EC2, S3, etc.)                                      |
+|                      | Contenerización      | Docker                                                                |
+|                      | Control de Versiones | Git                                                                   |
+| Sistemas y redes     | Administración       | Windows Server, Linux, Bash, SSH, Linea de comandos, Networking, etc. |
 
 ## Educación
 
